@@ -39,22 +39,22 @@ Systematic comparison of **5 ML classifiers** across **3 chronic disease dataset
 ## 📊 Key Results
 
 ### F1-Score Heatmap — All Models × All Datasets
-![F1 Heatmap](results/f1_heatmap.png)
+![F1 Heatmap](Results/f1_heatmap.png)
 
 ### ROC Curves — Model Comparison Across All Diseases
-![ROC Curves](results/roc_curves.png)
+![ROC Curves](Results/roc_curves.png)
 
 ### SHAP Global Feature Importance — Clinical Insights
-![SHAP Global Importance](results/shap_global_importance.png)
+![SHAP Global Importance](Results/shap_global_importance.png)
 
 ### SHAP Beeswarm Plots — Feature Contribution Direction
-![SHAP Beeswarm](results/shap_beeswarm.png)
+![SHAP Beeswarm](Results/shap_beeswarm.png)
 
 ### Confusion Matrices — LightGBM (Best Model)
-![Confusion Matrices](results/confusion_matrices.png)
+![Confusion Matrices](Results/confusion_matrices.png)
 
 ### Cross-Validation Stability
-![CV Boxplots](results/cv_boxplots.png)
+![CV Boxplots](Results/cv_boxplots.png)
 
 ---
 
